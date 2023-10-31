@@ -67,6 +67,7 @@ SimpleHillClimbing()
 ```
 ## Output 
 String : DEEP LEARNING
+
 ![](1.png)
 ## Result
 The Simple Hill Climbing Algorithm successfully mutated a random string to optimize and generate the target string 'DEEP LEARNING' by iteratively improving the solution.
