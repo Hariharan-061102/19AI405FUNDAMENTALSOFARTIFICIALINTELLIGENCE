@@ -140,7 +140,7 @@ print("Path Found :",aStarAlgo(start_node, stop_node))
 
 
 ### Output I:
-![image](https://github.com/manojvenaram/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94165064/84a96cfc-1bab-451e-aadb-92920fbde998)
+![](1.png)
 
 ### Program II
 ``` python
@@ -247,7 +247,7 @@ print('Path found:',aStarAlgo(start_node, stop_node))
 
 
 ###  Output II:
-![](1.png)
+![](2.png)
 
 ## Result:
 Thus, a Graph was constructed, and the implementation of the A* algorithm for the same graph was executed successfully. The algorithm found the shortest path from the start node to the stop node, demonstrating its effectiveness in solving pathfinding problems.
